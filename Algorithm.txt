@@ -1,0 +1,26 @@
+Problem 1
+
+Step 1: Start
+Step 2: Input num1 and num2 
+Step 3: Compute the sum: sum = num1 + num2 
+Step 4: Display the sum
+Step 5: End
+
+
+Problem 2
+
+Step 1: Start
+Step 2: Input score 1, score2, and score3
+Step 3: Compute the average using the formula: average = (score1 + score2 + score3) / 3
+Step 4: Display the average
+Step 5: End
+
+
+Problem 3
+
+Step 1: Start 
+Step 2: Input the number
+Step 3: check if the number is divisible by 2 (number MOD 2 + 0)
+Step 4: If the result is true, display "Even"
+Step 5: Otherwise, display "Odd"
+Step 6: End
